@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="21">
+      <Unit0>
+        <Filename Value="principal.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="45" Y="6"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitebonheur.pas"/>
+        <UnitName Value="uniteBonheur"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uniteconstruire.pas"/>
+        <UnitName Value="uniteConstruire"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="386"/>
+        <CursorPos X="63" Y="242"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unitecreerecran.pas"/>
+        <UnitName Value="uniteCreerEcran"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1861"/>
+        <CursorPos X="84" Y="1880"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unitedepart.pas"/>
+        <UnitName Value="uniteDepart"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="75" Y="8"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unitetextes.pas"/>
+        <UnitName Value="uniteTextes"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="1127"/>
+        <CursorPos Y="103"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="unitetransaction.pas"/>
+        <UnitName Value="uniteTransaction"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="20"/>
+        <CursorPos X="19" Y="37"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unitrecord.pas"/>
+        <UnitName Value="unitRecord"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="22"/>
+        <CursorPos X="22" Y="20"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unitvariable.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="610"/>
+        <CursorPos X="45" Y="90"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="gestionecran.pas"/>
+        <UnitName Value="GestionEcran"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="7"/>
+        <CursorPos X="15" Y="18"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="uniteconstruire1.pas"/>
+        <UnitName Value="uniteConstruire"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="64" Y="41"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unitecreerecran1.pas"/>
+        <UnitName Value="uniteCreerEcran"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1322"/>
+        <CursorPos X="22" Y="1374"/>
+        <UsageCount Value="13"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="unitetextes1.pas"/>
+        <UnitName Value="uniteTextes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="669"/>
+        <CursorPos X="43" Y="689"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="unitetransaction1.pas"/>
+        <UnitName Value="uniteTransaction"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="162"/>
+        <CursorPos X="46" Y="77"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="unitvariable1.pas"/>
+        <UnitName Value="unitvariable"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18" Y="422"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="uniteconstruire2.pas"/>
+        <UnitName Value="uniteConstruire"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="354"/>
+        <CursorPos X="32" Y="321"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="unitecreerecran2.pas"/>
+        <UnitName Value="uniteCreerEcran"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="265"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="unitetextes2.pas"/>
+        <UnitName Value="uniteTextes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="271"/>
+        <CursorPos Y="319"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="unitetransaction2.pas"/>
+        <UnitName Value="uniteTransaction"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="354"/>
+        <CursorPos X="55" Y="332"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="unitvariable2.pas"/>
+        <UnitName Value="unitvariable"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="610"/>
+        <CursorPos X="44" Y="633"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="unitesave.pas"/>
+        <UnitName Value="uniteSave"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="74"/>
+        <CursorPos X="12" Y="103"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit20>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="9" Column="114"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="29" Column="23" TopLine="19"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unitedepart.pas"/>
+        <Caret Line="30" Column="23" TopLine="9"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unitedepart.pas"/>
+        <Caret Line="18" Column="15" TopLine="6"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unitedepart.pas"/>
+        <Caret Line="8" Column="86"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unitesave.pas"/>
+        <Caret Line="23" Column="26" TopLine="11"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unitrecord.pas"/>
+        <Caret Line="30" Column="17" TopLine="21"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unitrecord.pas"/>
+        <Caret Line="22" Column="15" TopLine="21"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unitesave.pas"/>
+        <Caret Line="10" Column="34"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="577" Column="27" TopLine="565"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unitesave.pas"/>
+        <Caret Line="45" Column="12" TopLine="28"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="23" Column="41" TopLine="4"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="12" Column="41"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="164" Column="8" TopLine="152"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unitesave.pas"/>
+        <Caret Line="46" Column="10" TopLine="29"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unitedepart.pas"/>
+        <Caret Line="10" Column="34"/>
+      </Position16>
+      <Position17>
+        <Filename Value="principal.lpr"/>
+        <Caret Line="6" Column="10"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unitrecord.pas"/>
+        <Caret Line="20" Column="22" TopLine="19"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unitesave.pas"/>
+        <Caret Line="11" Column="19" TopLine="8"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unitesave.pas"/>
+        <Caret Line="139" Column="17" TopLine="122"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unitvariable.pas"/>
+        <Caret Line="588" Column="12" TopLine="577"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unitesave.pas"/>
+        <Caret Line="97" Column="3" TopLine="94"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unitedepart.pas"/>
+        <Caret Line="29" Column="31" TopLine="9"/>
+      </Position23>
+      <Position24>
+        <Filename Value="unitetextes.pas"/>
+        <Caret Line="1205" Column="5" TopLine="1184"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unitedepart.pas"/>
+        <Caret Line="29" Column="29" TopLine="18"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="873" Column="42" TopLine="871"/>
+      </Position26>
+      <Position27>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="1338" Column="10" TopLine="1319"/>
+      </Position27>
+      <Position28>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="289" Column="18" TopLine="278"/>
+      </Position28>
+      <Position29>
+        <Filename Value="unitetextes.pas"/>
+        <Caret Line="193" Column="27" TopLine="171"/>
+      </Position29>
+      <Position30>
+        <Filename Value="unitecreerecran.pas"/>
+        <Caret Line="1624" Column="60" TopLine="1622"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
