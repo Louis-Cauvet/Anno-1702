@@ -1,7 +1,8 @@
-# Anno-1702 💻
+# Anno-1702 🏝️
 
 > Projet Complémentaire de S1 au DUT Informatique
-### Contexte 💬
+ 
+### Contexte🎯
 Ce projet avait pour but de nous faire mettre en application ce qu'on avait appris en cours d'algorithmique, dans lequel nous découvrions les principes de base de l'orienté-objet (classes, attributs, fonctions, variables...).
 
 L'objectif du projet est de reprendre le principe du jeu *Anno 1701* (colonisation d'une nouvelle terre, en exploitant intelligement ses ressources), avec une interface graphique sur laquelle du texte explique chaque situation au joueur, et les différentes possibilités s'offrant à lui.
@@ -23,10 +24,3 @@ Notre réalisation finale correspond bien à ce qui était demandé par les prof
 
 Sur le plan personnel, ce travail m'a demandé un gros investissement en tant que chef de projet, car il m'a fallu fusionner moi-même les parts de travail de chacun dans un seul et même projet, en veillant à obtenir un résultat conforme et fonctionnel (nous ne connaissions pas encore à l'époque l'existance d'outils collaboratifs tels que GitHub).
 
-
-### Quelques images du projet 📷
-![image du projet 1](https://github.com/Louis-Cauvet/Anno-1702/blob/main/Images/Capture1.PNG)
-</br></br>
-![image du projet 2](https://github.com/Louis-Cauvet/Anno-1702/blob/main/Images/Capture2.PNG)
-</br></br>
-![image du projet 3](https://github.com/Louis-Cauvet/Anno-1702/blob/main/Images/Capture3.PNG)
